@@ -5,7 +5,7 @@ export default function App() {
 
     return(
         <>
-        <p>прив</p>
+        <p>опана вижу окей</p>
         </>
     )
 }
